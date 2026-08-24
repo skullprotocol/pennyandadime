@@ -29,19 +29,19 @@
 </p>
 
 <p align="center">
-  <a href="shaiiraviolii.straw.page/skullprotocol">
+  <a href="https://shaiiraviolii.straw.page/skullprotocol">
     <img src="https://github.com/user-attachments/assets/79a815e5-7bb9-4d0e-8c1c-2885377d8cd8" width="200">
   </a>
 
-  <a href="shaiiraviolii.atabook.org">
+  <a href="https://shaiiraviolii.atabook.org">
     <img src="https://github.com/user-attachments/assets/147fe5e9-e8dd-4eb4-8a0b-5808c14041ce" width="200">
   </a>
 
-  <a href="rentry.co/shaiiraviolii">
+  <a href="https://rentry.co/shaiiraviolii">
     <img src="https://github.com/user-attachments/assets/2c7c8d43-16f1-46fe-b483-88bed6e682d4" width="200">
   </a>
 
-  <a href="guns.lol/shaiiraviolii">
+  <a href="https://guns.lol/shaiiraviolii">
     <img src="https://github.com/user-attachments/assets/ad29f846-8ef2-435b-a768-e7c242c06e84" width="200">
   </a>
 </p>
